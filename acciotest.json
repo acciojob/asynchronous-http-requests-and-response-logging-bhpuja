@@ -1,0 +1,4 @@
+{
+    "testRepo": "asynchronous-http-requests-and-response-logging-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
